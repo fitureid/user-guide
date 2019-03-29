@@ -15,9 +15,7 @@ Konfirmasi pesanan pengiriman member B2C digunakan untuk pemberitahuan bahwa sta
 
 3. Tekan save untuk menyimpan
 
-{% hint style="info" %}
-Setelah proses konfirmasi pengiriman pesanan, Status Pesanan akan menjadi **"waiting for member confirmation".** 
-{% endhint %}
+> Setelah proses konfirmasi pengiriman pesanan, Status Pesanan akan menjadi **"waiting for member confirmation".**
 
 ![](../../.gitbook/assets/image%20%2899%29.png)
 

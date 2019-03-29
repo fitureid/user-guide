@@ -17,6 +17,6 @@ Produk status Pending : Admin belum nentukan harga untuk produk
 
 Produk status approved : Harga yang di tentukan admin telah disetujui 
 
-Produk status rejected : Produk yang di pesan tidak bisa di beli karena alasan ketersediaan produk_x_
+Produk status rejected : Produk yang di pesan tidak bisa di beli karena alasan ketersediaan produk
 {% endhint %}
 

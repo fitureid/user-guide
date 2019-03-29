@@ -4,9 +4,7 @@ Sales Order digunakan mendata semua pesanan indent dari inquiry yang disetujui y
 
 ![](../../.gitbook/assets/image%20%28247%29.png)
 
-{% hint style="info" %}
-Selain untuk melihat daftar produk yang telah di pesan oleh custumer, menu sales order digunakan untuk memasukan jumlah barang ready padap pesanan barang indent
-{% endhint %}
+> Selain untuk melihat daftar produk yang telah di pesan oleh custumer, menu sales order digunakan untuk memasukan jumlah barang ready padap pesanan barang indent
 
 Untuk melihat detail, dilakukan dengan memilih sales order yang akan ditaur kemudian pilih tombol **Detail.**
 
@@ -18,7 +16,5 @@ untuk melakukan pengaturan barang ready menjadi indent dilakukan dengan memilih 
 
 Masukan quantity ready kemudian tekan **save**
 
-{% hint style="info" %}
-Setelah menambahkan produk ready dalam produk yang indent maka di menu custumer akan mendapatkan info mengenai produk yang ready dan dapat melakukan checkout barang untuk pengiriman selanjutnya
-{% endhint %}
+> Setelah menambahkan produk ready dalam produk yang indent maka di menu custumer akan mendapatkan info mengenai produk yang ready dan dapat melakukan checkout barang untuk pengiriman selanjutnya
 

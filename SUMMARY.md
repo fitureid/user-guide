@@ -47,7 +47,6 @@
 * [News](administrator/news.md)
 * [Setting](administrator/pengaturan/README.md)
   * [Footer Setting](administrator/pengaturan/untitled.md)
-  * [General](administrator/pengaturan/setting.md)
   * [Approval Member](administrator/pengaturan/approval-member.md)
   * [Approval Discount](administrator/pengaturan/approval-discount.md)
 

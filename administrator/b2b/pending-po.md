@@ -39,9 +39,7 @@ Product Custom adalah produk tambahan yang dipesan oleh custumer yang sekiranya 
 
 ![](../../.gitbook/assets/image%20%2876%29.png)
 
-{% hint style="info" %}
-Jika produk yang dipesan oleh customer tidak tersedia, maka admin harus memasukan produk yang dipesan \(jika disetujui\) kedalam sistem dan setting diskon agar product tersebut mendapat diskon
-{% endhint %}
+> Jika produk yang dipesan oleh customer tidak tersedia, maka admin harus memasukan produk yang dipesan \(jika disetujui\) kedalam sistem dan setting diskon agar product tersebut mendapat diskon
 
 ### Product Available
 
@@ -55,11 +53,9 @@ Product Available adalah produk yang dipesan oleh custumer yang di pilih dari pr
 * JIka produk di approve, masukan qty indent dan qty ready berserta diskon tambahan \(jika ada\)
 * kemudian masukan note indent untuk menginformasikan berapa lama wajtu perkiraan indent barang
 
-{% hint style="success" %}
-Untuk menyimpan proses inquiry yang sudah di review dilakukan dengan menekan tombol **save** dan memasukan password login untuk verifikasi
-{% endhint %}
 
-{% hint style="info" %}
-Jika pada proses inquiry terdapat tambahan diskon atau DP maka perlu dilakukan approval inquiry oleh role yang berhak melakukan approval.
-{% endhint %}
+
+> Untuk menyimpan proses inquiry yang sudah di review dilakukan dengan menekan tombol **save** dan memasukan password login untuk verifikasi
+
+> Jika pada proses inquiry terdapat tambahan diskon atau DP maka perlu dilakukan approval inquiry oleh role yang berhak melakukan approval.
 

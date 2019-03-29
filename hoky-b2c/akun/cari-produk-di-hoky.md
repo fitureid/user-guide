@@ -16,9 +16,5 @@ Masukan Email dan Password yang sebelumnya sudah didaftarkan pada proses registe
 
 ![Halaman Profil setalah login](../../.gitbook/assets/image%20%28262%29.png)
 
-### Cara Register 
-
-{% embed url="https://hoky.gitbook.io/user-guide/~/edit/drafts/-LNP6L7u7tS\_iJfjvgQz/hoky-b2c/cara-register" %}
-
 
 

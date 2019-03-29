@@ -17,9 +17,7 @@ Berikut langkah untuk untuk melakukan approval diskon :
 
 * Pilih approve atau revisi inquiry
 
-{% hint style="success" %}
-Untuk menyimpan proses inquiry yang sudah di proses dengan menekan tombol **save** dan memasukan password login untuk verifikasi, jika sudah di approve maka custumer akan mendapatkan quotation
-{% endhint %}
+> Untuk menyimpan proses inquiry yang sudah di proses dengan menekan tombol **save** dan memasukan password login untuk verifikasi, jika sudah di approve maka custumer akan mendapatkan quotation
 
 
 

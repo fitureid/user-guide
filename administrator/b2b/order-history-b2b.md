@@ -2,8 +2,6 @@
 
 Approval Inquiry adalah langkah kedua setelah proses admin me-review inquiry jika pada proses inquiry yang di proses oleh admin memiliki diskon atau DP. Ketentuan role untuk approval inquiry diatur pada menu setting approval diskon.
 
-{% page-ref page="../pengaturan/approval-discount.md" %}
-
 Berikut langkah untuk untuk melakukan approval diskon :
 
 * Login menggunakan role yang sudah diatur pada setting approval diskon

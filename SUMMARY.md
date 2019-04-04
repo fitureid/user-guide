@@ -56,7 +56,6 @@
   * [Bagaimana cara mencari produk di Hoky](hoky-b2c/panduan-penggunaan-aplikasi/bagaimana-cara-mencari-produk-di-hoky.md)
   * [Cara Edit Product Di Keranjang Belanja](hoky-b2c/panduan-penggunaan-aplikasi/cara-edit-product-di-keranjang-belanja.md)
   * [Cara Hapus Produk Di Keranjang Belanja](hoky-b2c/panduan-penggunaan-aplikasi/cara-hapus-produk-di-keranjang-belanja.md)
-* [Bagaimana melihat status pesanan yang sudah dibayar](hoky-b2c/bagaimana-status-pesanan-yang-sudah-dibayar.md)
 * [Kendala Pesanan](hoky-b2c/kendala-pesanan/README.md)
   * [Pesanan Dibatalkan](hoky-b2c/kendala-pesanan/pesanan-dibatalkan.md)
   * [Pesanan tidak bisa dilacak](hoky-b2c/kendala-pesanan/pesanan-tidak-bisa-dilacak.md)

@@ -1,6 +1,6 @@
 # Saldo Transaction
 
-Saldo transaction merupakan menu yang digunakan untuk melihat seluruh transaksi dari saldo yang digunakan oleh member B2B. untuk melihat riwayat transaksi dari Hoky saldo dilakuakn dengan mengakses menu Master deal, submenu Saldo Transaction :
+Saldo transaction merupakan menu yang digunakan untuk melihat seluruh transaksi dari saldo yang digunakan oleh member B2C. untuk melihat riwayat transaksi dari Hoky saldo dilakuakn dengan mengakses menu Master deal, submenu Saldo Transaction :
 
 ![](../../.gitbook/assets/image%20%28205%29.png)
 

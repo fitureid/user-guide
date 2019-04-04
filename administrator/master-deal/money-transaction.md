@@ -1,6 +1,6 @@
 # Money Transaction
 
-Money transaction merupakan menu yang digunakan untuk melihat seluruh transaksi dari money yang digunakan oleh member B2B. untuk melihat riwayat transaksi dari Hoky Money dilakuakn dengan mengakses menu Master Member, submenu Money Transaction :
+Money transaction merupakan menu yang digunakan untuk melihat seluruh transaksi dari money yang digunakan oleh member B2C. untuk melihat riwayat transaksi dari Hoky Money dilakuakn dengan mengakses menu Master Member, submenu Money Transaction :
 
 ![](../../.gitbook/assets/image%20%2860%29.png)
 

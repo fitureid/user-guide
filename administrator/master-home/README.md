@@ -16,5 +16,5 @@ Brands/Partner  merupakan submenu dari Master Home yang berfungsi untuk mengatur
 
 ## Catalog
 
-Catalog merupakan submenu dari Master Home yang berfungsi untuk mengatur layout pada home 
+Catalog merupakan submenu dari Master Home yang berfungsi untuk menyediakan katalog untuk dilihat oleh para customer dan juga dapat di download
 
